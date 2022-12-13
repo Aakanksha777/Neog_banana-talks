@@ -1,0 +1,20 @@
+.upper-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#txt {
+    height: 20vh;
+    background-color: aliceblue;
+    margin: 2em;
+    padding: 1em;
+    display: block;
+    width: 60%;
+}
+
+#btn-translate {
+    margin: 20px;
+    
+}
